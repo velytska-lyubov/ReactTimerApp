@@ -15,7 +15,7 @@ const Nav = () => (
       </ul>
     </div>
     <div className="top-bar-right">
-      <ul>
+      <ul className="menu">
         <li className="menu-text">Created by <a>Lyubov Velytska</a></li>
       </ul>
     </div>
